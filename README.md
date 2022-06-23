@@ -1,6 +1,11 @@
-# 💫 About Me:
-I’m currently working on Directorist<br><br>I’m currently learning Node.js<br><br>Ask me about Javascript, WordPress
+<h1 align="center">Hi 👋, I'm Mahdi</h1>
+<h3 align="center">Fake Developer</h3>
 
+- 🔭 I’m currently working on [Directorist](https://directorist.com/)
+
+- 🌱 I’m currently learning **Node.js**
+
+- 💬 Ask me about **Javascript, WordPress**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/M4hd1BD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/M4hd1BD) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/M4hd1BD) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/M4hd1BD) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/M4hd1BD) 
