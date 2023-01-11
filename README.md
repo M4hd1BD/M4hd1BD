@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">Fake Developer</h3>
 
-- 🔭 I’m currently working on [Directorist](https://directorist.com/)
-
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Javascript, WordPress**
